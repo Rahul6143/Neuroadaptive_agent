@@ -1,0 +1,27 @@
+# Environment variables and secrets
+.env
+*.env
+.streamlit/secrets.toml
+
+# Database files
+*.db
+chat_history.db
+
+# Vector database
+chroma_db/
+
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Bot data directory (if you don't want to include training data)
+bot_data/
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
