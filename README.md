@@ -13,8 +13,8 @@ A compassionate AI-powered mental health support chatbot that provides empatheti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Rahul6143/Neuroadaptive_Agent.git
+cd Neuroadaptive_Agent
 ```
 
 2. Create a virtual environment and activate it:
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 6. Run the application:
 ```bash
-streamlit run Neuroadaptive_agent/neuro_adaptive.py
+streamlit run neuro_adaptive.py
 ```
 
 ## Environment Variables
